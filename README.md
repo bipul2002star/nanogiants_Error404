@@ -38,4 +38,4 @@ We learnt the art of team work. We were doubtful if we could come up with someth
 
 ## Next steps
 
-At the moment we are using a kaggle dataset for the reviews and the ratings. We wish to obtain all this from an api which requires registration and all. We have also plans to integrate the data from machine learning algorithms and the preprocessed data to make accurate predictions which would in turn help the product-app owners to make intelligent choices.
+At the moment we are using a kaggle dataset for the reviews and the ratings. We wish to obtain all this from an api which requires registration and all. We also have to make proper provisions for registration and sign-ins(Time was very less, so were not able to implement). We have also plans to integrate the data from machine learning algorithms and the preprocessed data to make accurate predictions which would in turn help the product-app owners to make intelligent choices.
